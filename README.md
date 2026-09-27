@@ -1,1 +1,0 @@
-# smart-data-analyzer-intern
